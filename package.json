@@ -1,3 +1,16 @@
 {
-  "main": "d3.js"
+  "name": "d3",
+  "version": "3.5.17-patched",
+  "description": "Data-Driven Documents",
+  "homepage": "https://d3js.org",
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  },
+  "main": "d3.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krekhovetskyi/d3-3.5.17-patched"
+  }
 }
